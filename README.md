@@ -81,24 +81,6 @@ journey
 
 ---
 
-## 📁 Repo Structure
-
-```text
-llm-from-scratch/
-├── 📓 notebooks/        # messy exploration, here be dragons
-├── 🧱 model/             # transformer building blocks
-│   ├── attention.py
-│   ├── embeddings.py
-│   ├── transformer_block.py
-│   └── model.py
-├── ✂️  tokenizer/         # BPE tokenizer built from scratch
-├── 🏋️  training/          # training loop, configs, checkpoints
-├── 📊 logs/              # loss curves & screaming
-└── 📝 NOTES.md           # things I learned (and things that broke me)
-```
-
----
-
 ## 🐣 Why build from scratch instead of using HuggingFace?
 
 <div align="center">
