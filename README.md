@@ -59,7 +59,7 @@ journey
 |---|---|
 | 🧮 Tensors, autograd, backprop from scratch | ✅ Done |
 | ✂️ Byte-Pair Encoding tokenizer | ✅ Done |
-| 🔡 Embedding + positional encoding | 🚧 In progress |
+| 🔡 Embedding + positional encoding | ✅ Done  |
 | 👀 Self-attention (single head) | 🚧 In progress |
 | 🧠 Multi-head attention | 🚧 In progress |
 | 🏗️ Full transformer block | ⬜ Not started |
@@ -80,6 +80,7 @@ journey
 </div>
 
 ---
+
 
 ## 🐣 Why build from scratch instead of using HuggingFace?
 
